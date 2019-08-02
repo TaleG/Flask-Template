@@ -1,0 +1,7 @@
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 275-711-346
+INFO _internal.py:122 127.0.0.1 - - [02/Aug/2019 14:39:06] "GET /api/v1.0/begins HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [02/Aug/2019 14:39:15] "GET /api/v1.0/begins HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [02/Aug/2019 14:39:19] "GET /api/v1.0/begin HTTP/1.1" 200 -
